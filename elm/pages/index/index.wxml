@@ -1,6 +1,15 @@
 <!--index.wxml-->
 <view class='index_location'>
+   <view class='address_information'>
    <image class='location' src='../../images/public/index_address.png'></image>
-   <view>长沙市芙蓉区</view>
-   <image class='location' src='../../images/public/drop_down'></image>
+   <view class='position'>长沙市芙蓉区远大一路湘域相遇</view>
+   <image class='drop_down' src='../../images/public/drop_down.png'></image>
    </view>
+</view>
+<view>
+   <view class='search_box'>
+      <view class='search'>
+
+      </view>
+      </view>
+</view>

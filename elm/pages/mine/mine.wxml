@@ -6,8 +6,8 @@
     <view class='user_name'>用户名</view>
     <view class='usre_phone'>13785564612</view>
   </view>
-  <image class="arrow" src='../../images/public/arrow.png'>
-  </image>
+  <image class="arrow" src='../../images/public/arrow_wihte.png'>
+    </image>
 </view>
 <view class='user_balance'>
   <view class='amount_box'>

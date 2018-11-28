@@ -1,5 +1,6 @@
 /* pages/mine/mine.wxss */
 
+/* 用户信息 */
 .user_block {
   background: #0085ff;
   color: #fff;
@@ -58,8 +59,9 @@
 }
 
 .icon {
-  width: 40rpx;
-  height: 40rpx;
+  width: 44rpx;
+  height: 44rpx;
+  padding-left: 20rpx;
 }
 
 .arrow {
@@ -87,12 +89,12 @@
   display: flex;
   align-items: center;
   justify-content: space-around;
-  font-size: 30rpx;
+  font-size: 34rpx;
   letter-spacing: 4rpx;
   color: #555;
   
 }
 
 .address {
-  width: 72%;
+  width: 76%;
 }
