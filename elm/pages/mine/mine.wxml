@@ -1,0 +1,62 @@
+<!--pages/mine/mine.wxml-->
+<view class='user_block'>
+  <image class="user_head" src='../../images/public/head_portrait.png'>
+  </image>
+  <view class='user_information'>
+    <view class='user_name'>用户名</view>
+    <view class='usre_phone'>13785564612</view>
+  </view>
+  <image class="arrow" src='../../images/public/arrow.png'>
+  </image>
+</view>
+<view class='user_balance'>
+  <view class='amount_box'>
+    <image class="wallet_img" src='../../images/public/balance.png'></image>
+    <view class='usre_amount'>金额</view>
+
+  </view>
+  <view class='amount_box middle_item'>
+    <image class="wallet_img" src='../../images/public/wallet.png'></image>
+    <view class='usre_amount'>钱包</view>
+  </view>
+  <view class='amount_box'>
+    <view class='gold_coin'>
+      <image class="wallet_img" src='../../images/public/gold.png'>
+      </image>
+      <view class='usre_amount'>金币</view>
+    </view>
+  </view>
+</view>
+<view class='user_choice'>
+  <view class='user_address'>
+    <image class="icon" src='../../images/public/address.png'></image>
+    <view class='address'>我的地址</view>
+    <image class="arrow" src='../../images/public/arrow_1.png'></image>
+  </view>
+</view>
+<view class='user_choice'>
+  <view class='user_address'>
+    <image class="icon" src='../../images/public/gold_coin_mall.png'></image>
+    <view class='address'>金币商城</view>
+    <image class="arrow" src='../../images/public/arrow_1.png'></image>
+  </view>
+  <view class='user_address'>
+    <image class="icon" src='../../images/public/gift.png'></image>
+    <view class='address'>分享拿10元现金</view>
+    <image class="arrow" src='../../images/public/arrow_1.png'></image>
+  </view>
+
+</view>
+<view class='user_choice'>
+  <view class='user_address'>
+    <image class="icon" src='../../images/public/customer_ service.png'></image>
+    <view class='address'>我的客服</view>
+    <image class="arrow" src='../../images/public/arrow_1.png'></image>
+  </view>
+  <view class='user_address'>
+    <image class="icon" src='../../images/public/hungry.png'></image>
+    <view class='address'>下载饿了么APP</view>
+    <image class="arrow" src='../../images/public/arrow_1.png'></image>
+  </view>
+
+</view>

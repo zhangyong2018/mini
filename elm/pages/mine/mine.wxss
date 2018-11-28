@@ -1,0 +1,98 @@
+/* pages/mine/mine.wxss */
+
+.user_block {
+  background: #0085ff;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 228rpx;
+  padding: 0 10rpx;
+}
+
+.user_name {
+  font-size: 46rpx;
+}
+
+.usre_amount {
+  font-size: 30rpx;
+  letter-spacing: 2rpx;
+  color: #333;
+}
+
+.usre_phone {
+  font-size: 30rpx;
+}
+
+.user_information {
+  width: 55%;
+}
+
+.user_head {
+  width: 128rpx;
+  height: 128rpx;
+  border-radius: 50%;
+}
+
+.amount_box {
+ text-align: center;
+  width: 33.3%;
+}
+.middle_item{
+  border-left:1rpx #ddd dashed;
+   border-right:1rpx #ddd dashed;
+   
+}
+.wallet_img {
+  width: 60rpx;
+  height: 60rpx;
+}
+
+.user_balance {
+  background: #fff;
+  border-bottom: 1rpx solid #ddd;
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+  padding: 30rpx 0;
+}
+
+.icon {
+  width: 40rpx;
+  height: 40rpx;
+}
+
+.arrow {
+  width: 40rpx;
+  height: 40rpx;
+}
+
+.gold_coin{
+  border-right:none;
+}
+
+.user_choice{
+     margin-top: 20rpx;
+    border-top: 1rpx solid #ddd;
+    border-bottom: 1rpx solid #ddd;
+    font-size: 1rpx;
+    line-height: 1rpx;
+    background: #fff;
+}
+
+.user_address {
+  width: 100%;
+  background: #fff;
+  height: 100rpx;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  font-size: 30rpx;
+  letter-spacing: 4rpx;
+  color: #555;
+  
+}
+
+.address {
+  width: 72%;
+}
